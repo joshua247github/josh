@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64" role="img" aria-label="JOSH DATA PLUG">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16A34A"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="8" width="48" height="48" rx="14" fill="url(#g)"/>
+  <path d="M28 18v10m8-10v10M22 28h20v6a10 10 0 0 1-20 0v-6zm10 16v6" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="62" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="22" fill="#14532D">JOSH</text>
+  <text x="62" y="52" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="20" fill="#7C3AED">DATA PLUG</text>
+</svg>
